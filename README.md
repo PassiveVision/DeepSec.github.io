@@ -1,2 +1,2 @@
 # NeuralSec.github.io
-This is the personal page of Derek Wang. Making deep neural networks secure.
+My personal page.
